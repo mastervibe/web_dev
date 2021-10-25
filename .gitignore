@@ -1,0 +1,10 @@
+.vscode
+a.out
+node_modules/
+__pycache__/
+.project/
+bin/
+out/
+.gradle/
+.idea/
+.DS_Store
